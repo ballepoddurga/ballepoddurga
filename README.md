@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full stack Web Developer</h3>
 
 
-- 🔭 I’m currently working on **Task Management Website**
+- 🔭 I’m currently working on **A Student Teacher Booking Appointment System** to improve scheduling efficiency.
 
-- 🌱 I’m currently learning **vue.js, React.js**
+- 🌱 I’m currently learning **Vue.js, React.js** and **Firebase** to build modern web apps
 
-- 💬 Ask me about **React, javascript, Html and CSS**
+- 💬 Ask me about **React, javascript, Html and CSS** and also **Node.js, express.js** and **MongoDB** as I dive into full-stack Development
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
 
@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 </div>
 
 ### 🌐 Connect with Me
